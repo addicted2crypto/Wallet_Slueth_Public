@@ -77,4 +77,4 @@ Contact
 For questions or support, please contact here or on x at willbdeving.
 
 Disclaimer
-Wallet Sentinel is a security tool and should not be considered a substitute for your own due diligence. Always exercise caution when interacting with cryptocurrencies and be aware of the risks involved. We are not responsible for any losses incurred as a result of using this application.
+Wallet Tracker from Will, is a security tool and should not be considered a substitute for your own due diligence. Always exercise caution when interacting with cryptocurrencies and be aware of the risks involved. We are not responsible for any losses incurred as a result of using this application.
