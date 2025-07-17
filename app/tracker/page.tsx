@@ -858,7 +858,7 @@ export default function TrackerPage() {
                         • <strong>Ethereum:</strong> Uses ETHERSCAN_API_KEY environment variable
                       </li>
                       <li>
-                        • <strong>Avalanche:</strong> Uses SNOWSCAN_API_KEY environment variable (snowtrace.io)
+                        • <strong>Avalanche:</strong> Uses SNOWSCAN_API_KEY environment variable (snowscan.io)
                       </li>
                       <li>• Both APIs have free tiers available</li>
                       <li>• Fallback to free tier if API keys not configured</li>
