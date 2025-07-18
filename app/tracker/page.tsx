@@ -858,7 +858,8 @@ export default function TrackerPage() {
                         • <strong>Ethereum:</strong> Uses ETHERSCAN_API_KEY environment variable
                       </li>
                       <li>
-                        • <strong>Avalanche:</strong> Uses SNOWSCAN_API_KEY environment variable (snowscan.io)
+                        • <strong>Avalanche:</strong> Uses SNOWSCAN_API_KEY environment variable (snowscan.
+                        .io)
                       </li>
                       <li>• Both APIs have free tiers available</li>
                       <li>• Fallback to free tier if API keys not configured</li>
@@ -868,7 +869,7 @@ export default function TrackerPage() {
                   <div className="pt-4 border-t border-slate-600">
                     <h3 className="text-white font-medium mb-2">How it works:</h3>
                     <ul className="text-sm text-gray-400 space-y-1">
-                      <li>• Monitor up to {MAX_WALLETS} wallets on Ethereum and Avalanche networks</li>
+                      <li>• Monitor up to {MAX_WALLETS} wallets on any EVM chain</li>
                       <li>• Uses Etherscan API for Ethereum, Snowtrace API for Avalanche</li>
                       <li>
                         • Checks every {intervalMinutes} minute{intervalMinutes !== 1 ? "s" : ""} for new ERC20
