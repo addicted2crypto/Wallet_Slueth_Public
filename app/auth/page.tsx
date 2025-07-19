@@ -15,7 +15,7 @@ export default function AuthPage() {
   const [isLoading, setIsLoading] = useState(false)
   const [isAdminMode, setIsAdminMode] = useState(false)
 
-  // Check admin mode on component mount
+  // Check admin mode on component mount this is for testing purposes will
   useEffect(() => {
     const checkAdminMode = async () => {
       try {
