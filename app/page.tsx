@@ -312,7 +312,7 @@ export default function HomePage() {
         {/* Quick Start */}
         <div className='text-center'>
           <h2 className='text-2xl font-bold text-white mb-8'>Quick Start</h2>
-          <div className='grid md:grid-cols-3 gap-6 max-w-4xl mx-auto'>
+          <div className='grid md:grid-cols-3 gap-6 max-w-4xl '>
             <div className='bg-slate-800/50 p-6 rounded-lg border border-slate-700'>
               <div className='text-3xl mb-4'>1️⃣</div>
               <h3 className='text-white font-semibold mb-2'>Add Wallets</h3>
