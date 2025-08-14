@@ -33,7 +33,7 @@ export default function AuthPage() {
     e.preventDefault()
     setIsLoading(true)
 
-    // Simulate auth process
+    
     setTimeout(() => {
       setIsLoading(false)
       window.location.href = "/dashboard"
