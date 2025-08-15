@@ -15,7 +15,7 @@ export async function GET() {
 
   for (const address of testAddresses) {
     try {
-      console.log(`Testing API calls for ${address}`);
+      console.log(`Testing API calls for: ${address}`);
       const data = await api.getComprehensiveWalletData(address);
       results.push({
         address,
