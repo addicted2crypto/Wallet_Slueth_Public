@@ -190,8 +190,8 @@ export default function HomePage() {
             )}
           </h1>
           <p className='text-xl text-gray-300 mb-8 max-w-2xl mx-auto'>
-            Track up to 10 wallet addresses across Ethereum and Avalanche
-            networks. Get instant alerts for ERC20 token transactions with our
+            Track up to 10 wallet addresses across any EVM
+            network. Get instant alerts for ERC20 token transactions with our
             simple, automated monitoring system.
           </p>
           <div className='flex gap-4 justify-center'>
